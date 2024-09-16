@@ -1,0 +1,5 @@
+CREATE TABLE alien (
+    aid INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    aname VARCHAR(255),
+    tech VARCHAR(255)
+);
